@@ -269,10 +269,10 @@ padding:0px;
         opacity: 1;
     }
 /* =============================================================
-  TESTIMONIAL SECTION STYLES
+  TESTIMONIAL(BRANDON QUOTE) SECTION STYLES
  ============================================================ */
 #testimonial {
-    background: url(../img/testimonial.jpg) no-repeat center center;
+    background: url(../img/testimonial.svg) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -281,35 +281,19 @@ padding:0px;
 }
 
     #testimonial .overlay {
-        background-color: rgba(0,0,0,0.7);
+        background-color: rgba(0,0,0,0.6);
         padding-top: 90px;
         min-height: 300px;
         color: #fff;
         padding-top: 100px;
         padding-bottom: 100px;
     }
-/* =============================================================
-  TEAM SECTION STYLES
- ============================================================ */
-#team {
-    background-color: rgba(237, 237, 237, 1);
-}
 
-.media img {
-    margin-right: 40px;
-    max-height: 150px;
-    margin-bottom: 20px;
-    border: 2px solid #FF2276;
-}
-
-    .media img:hover {
-        opacity: 0.6;
-    }
 /* =============================================================
   CONTACT SECTION STYLES
  ============================================================ */
 #contact {
-    background: url(../img/clients.jpg) no-repeat center center;
+    background: url(../img/contact.svg) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -318,8 +302,8 @@ padding:0px;
 }
 
     #contact .overlay {
-        background-color: rgba(0,0,0,0.9);
-        padding-top: 90px;
+        background-color: rgba(0,0,0,0.7);
+        padding-top: 100px;
         min-height: 300px;
         color: #fff;
         padding-top: 100px;
